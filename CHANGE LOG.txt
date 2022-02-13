@@ -1,2 +1,5 @@
+13/02/2022 V1.0.1.0
+ - add deadzone
+ - add brake limit
 22/12/2021 V1.0.0.4
  - add enable axes
